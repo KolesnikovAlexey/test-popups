@@ -1,0 +1,28 @@
+body {
+    background-color: #969c92;
+}
+
+.block1 { 
+ width: 10%; 
+ background: #ffff00;
+ float: left;
+ padding-top:10px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.block2 { 
+ width: 10%; 
+ background:  #008000;
+ float: left;  
+ padding-top:10px;
+ padding-bottom:10px;
+ text-align: center;
+ color: #FFFFFF
+
+}
+.block3{
+  width: 70%;
+  margin: 0 auto;
+  background: #D0F123;
+}
